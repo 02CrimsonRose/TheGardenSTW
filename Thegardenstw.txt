@@ -164,3 +164,4 @@ Spend 1 round in the cage
 Spend 2 rounds in the cage (Your turn will be skipped)
 Get out of Jail Free card, use this wisely
 Send someone to the cage
+Group picks who you spend a round in the cage with
