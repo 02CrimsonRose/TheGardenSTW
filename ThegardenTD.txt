@@ -1,358 +1,106 @@
-T: What is the most embarrassing thing that has ever happened to you?
-T: What is the most embarrassing thing you’ve ever done?
-T: What is your biggest fantasy? 
-T: What is the most embarrassing photo of you? 
-T: What would you do if you were the opposite gender for a week? 
-T: What do most people assume about you that isn’t true?
-T: What is the stupidest thing you ever did as a teenager?  
-T: What was the most awkward date you ever went on?
-T: What is one item you hope nobody ever finds in your room?
-T: Who has the best-looking avatar here?
-T: If you starred in a porno, what would it be like?
-T: What is the most embarrassing thing you’ve posted on social media?
-T: What is your favorite thing that your significant other does for you?
-T: Tell us something you don’t want us to know.
-T: What do you hope your parents never find out about?
-T: What is the strangest dream you’ve ever had?
-T: Why did you break up with your last boyfriend/girlfriend?
-T: Do you secretly have a crush on someone here?
-T: Explain how you got your username.
-T: What's your worst drunk story?
-T: Have you ever done drugs? If so what?
-T: Who is the most bratty here?
-T: Have you ever ERP'd with someone in this room?
-T: Have you ever been cheated on or cheated?
-T: Reveal your weirdest fetish
-T: What celebrity would you hate to see naked?
-T: Have you ever tasted your own cum?
-T: What is the longest you've gone without showering?
-T: What is your worst bad habit?
-T: Have you ever been caught in the act?
-T: Who would you like to kiss in this room?
-T: Have you ever taken nudes of yourself?
-T: What upcoming game are you hyped about?
-T: Describe your most NSFW avatar?
-T: Tell us about your first kiss.
-T: When did you loose your virginity?
-T: Are you jealous as a BF/GF?
-T: What is your favorite anime?
-T: What are you drinking right now?
-T: Would you go on a VRC date with someone in here?
-T: Have you ever been to a a VRC Wedding?
-T: What do you value the most - money, fame, success, friends, family, etc?
-T: What's your dream job?
-T: What's your biggest regret?
-T: Have you ever ghosted someone? If so why?
-T: When was the last time you lied?
-T: What was your favorite childhood show, and is it responsable for you becoming a furry?
-T: Who do you DM the most?
-T: What's and instant deal breaker in a potential love interest?
-T: What's your favorite part of your body?
-T: Tell us about your last wet dream.
-T: What is your biggest insecurity?
-T: Do you pee in the shower?
-T: Do you still have feelings for your exes?
-T: Have you ever sent a sext?
-T: Have you ever had phone sex?
-T: What's the weirdest place you have had sex?
-T: What gross smell do you actually enjoy?
-T: Who would you choose for a threesome in this room?
-T: What's one thing you can't live without?
-T: What's the worst thing you've ever done?
-T: What is the biggest thing you've gotten away with?
-T: Why did you break up with your last boyfriend/girlfriend?
-T: What is the stupidest thing you have ever done?
-T: What's the worst thing you've ever said to anyone?
-T: Who have you loved but they didn't love you back?
-T: Who is the person you most regret kissing?
-T: Have you ever eaten ass?
-T: What is the naughtiest thing you have done in public?
-T: Who has the hottest voice here?
-T: What's the worst thing you've ever done at work?
-T: What's your favorite VRchat world?
-T: What's your favorite drinking/adult VRchat world?
-T: What's something you're glad your parents doesn't know about you?
-T: Name someone you’ve pretended to like but actually couldn’t stand
-T: Does size really matter?
-T: What's your biggest turn on?
-T: What's your biggest turn off?
-T: How many exes are you still friends with?
-T: What's the most annoying thing about yourself?
-T: Have you ever woken up not remembering what happened the night before?
-T: Have you ever hooked up with someone you didn't know their name?
-T: Have you ever lied about your age to buy alcohol?
-T: Have you ever had a one night stand?
-T: Have you ever gotten into a fight while drinking?
-T: Have you ever peed in public while drunk?
-T: Have you ever texted an ex while drunk?
-T: Have you ever thrown up from drinking too much?
-T: What's the most inappropriate place you have fallen asleep?
-T: What is the most embarrassing thing in your browser history?
-T: Ask the person who has known you the longest to share their first impression of you.
-T: Have you ever accidentally sent a lewd message to the wrong person?
-T: Have you ever accidentally called someone by the wrong name during sex?
-T: What secret about yourself did you tell someone in confidence and then they told a lot of other people?
-T: Who in this room would you want to ERP with?
-T: Who in this room would you like to see naked?
-T: How often do you masturbate?
+T: Who in this room would you flirt with first if you had to pick?
+T: What’s your biggest turn-on that isn’t physical?
+T: Who here do you think would be the best kisser?
+T: What’s the most embarrassing thing you’ve done because you were horny?
+T: Have you ever sent a risky message to the wrong person?
+T: What’s a fantasy you’ve never told anyone here?
+T: Have you ever crushed on a friend and said nothing?
+T: Have you ever stayed up way too late in VR because of one person?
+T: Who here would you take to a private room?
+T: What's your favorite position?
+T: Who here are you most attracted to?
+T: What's the fastest someone has ever made you catch feelings
+T: Who here is the best flirt?
+T: Who here would you let ruin your sleep schedule?
+T: What's a fantasy you think about more than you'd like to admit?
+T: Is there anyone here you're sexually curious about? Give 2 if you admit who!
+T: What's the most impulsive thing hornyness made you do?
+T: What's a line that still lives rent free in your head?
+T: What's your flirting style when you're serious?
+T: Have you ever been caught staring?
+T: What's the horniest thought you've had today?
+T: Favorite kink?
+T: What place do you want touched the most? Give 2 drinks if you say who you want to touch you~
+T: Slow and passionate sex or rough and fast paced sex?
+T: Which bondage would you prefer, Ropes or  Handcuffs?
+T: Rank these kinks in your preference, 1 being favorite 5 being least favorite. Rope play, Body Writing, Weapon play, Sensory Deprivation, Pet play. 
+T: What something you hope happens to night? Give 2 drinks if you name who with
+T: Who here do you think would give the best after care?
+T: Who here would you want to take you to a private room?
+T: Who here gives you dirty thoughts? Give 2 drinks if you say what the thoughts are
+T: Who here do you want to take you to a private room?
+T: Would you fuck someone here infront of everyone? Give 2 drinks if you name who
+T: Who's got the hotest voice?
+T: Who here do you think would be the best at pushing your limits
+T: Are you Submissive, Dominant, or Switch?
+T: Who here would you like to send a naughty DM to? Give 2 if you send them one now
+T: Who here would you want to ruin you?
+T: Praise or Degredation? 
+T: Who here are you most likely to think off late at night?
+T: Who all here would you say is your type?
+T: Who's lap do you want to sit on?
+T: Who here would you let get way to close?
+T: Who here would you most likely pick for 7 minutes in heaven?
+T: Who's avatar here do you find sexy? Name em all!
+T: Have you ever ERP'd with anyone in the room?  (WOULD YOU LIKE TO)
+T: Give a drink to your biggest "would" here.
+T: Who is someone here you'd like to ERP with, but never have?
+T: Do you have a crush on anyone here?
+T: Would you go on a VRC Date with anyone here?
+T: Hove you ever had a wet dream about someone here? Give 2 drinks if you reveal who
+T: Who here do you want a naughty DM from? Drink 2 if they DM you
+T: Who here would be in your dream threesome?
+T: Sexting or Phone sex?
+T: Would you rather sit on someones face or someone sit on your face?
+T: What do you think your craziest kink is?
+T: Does size matter to you?
+T: Do you have any sex toys? If so what are they?
 T: Do you ever watch porn?
-T: What kind of porn do you gravitate to?
-T: Do you have any sex toys? If yes, what are they?
-T: Have you ever had a threesome?
-T: Have you ever gone skinny dipping?
-T: Have you ever streaked?
-T: What is the weirdest thing that turns you on?
-T: Describe the underwear you're wearing right now
-T: Have you ever fantasized about a coworker?
-T: Have you ever had sex in public?
-T: Have you ever recorded yourself having sex?
-T: Have you ever been tied up/tied someone up in bed?
-T: Do you like being spanked?
-T: Have you ever tried anal?
-T: Have you ever tried roleplaying in bed? If so what were the roles?
-T: Which would you rather give up for a year: sex or alcohol?
-T: Have you ever had sex in a car?
-T: What is the highest number of orgasms you've had in a day?
-T: Have you ever had sex in the shower?
-T: Have you ever had sex in a pool or hot tub?
-T: What is the biggest age gap you've had with a partner?
-T: Do you prefer giving or receiving oral sex?
-T: Have you ever faked an orgasm?
-T: Have you ever turned down a sexual opportunity and regretted it?
-T: Who would be in your dream orgy?
-T: If you could have sex with someone from your past again, who would it be?
-T: What is a sex toy that you want to try?
-T: Have you ever been turned on at work? What did you do about it?
-T: Would you try swinging?
-T: What is #1 on your sexual bucket list right now?
-T: What is something you pretended to like but couldn't stand
-T: Name someone you've pretended to like but couldn't stand
-T: Do you prefer loud or silent people in bed?
-T: Have you masturbated to a BMare member?
-T: Most awkward spot where you gave or got oral.
-T: Would you become a sex slave for 24 hours?
-T: How many times have you came in one day?
-T: Would you fuck a professor to get a better grade?
-T: Have you masturbated at work? Did you cum?
-T: If it was safe and decently paid, would you work as a prostitute?
-T: Would you work as a stripper?
-T: Most weird/public/crazy place you have had sex?
-T: Given the option, dick or pussy to play with?
-T: Would you work in a sex shop?
-T: Have you ever drempt about someone here? Share details~
-T: If this game turned into an orgy, would you participate?
-T: How many sex toys do you own?
-T: What are your top 3 kinks and why?
-T: Which two people in this room would you have a threesome with?
-T: Would you fuck someone in public?
-T: Have you had a sexual fantasy about someone you shouldn't?
-T: What's a kink that's a hard NO for you?
-T: What is your favorite part of your partners body?
-T: Have you had sex with someone without knowing their name? Do you know it now?
-T: What is something you've always wanted to try sexually, but are too embarrassed to ask someone?
-T: How many times have you gotten turned on while playing today?
-T: Who in this room would you most like to go to the private rooms with after this?
-T: Is there someone in their room you would fuck in front of everyone here?
-T: What's the weirdest thing you have used as a toy to masturbate?
-T: Name 3 people in this room you would gladly have an orgy with
-T: How many of the people in this room would you fuck?
-T: Would you walk around in public with cum dripping out of you?
-T: What's the largest orgy you would participate in with the people here?
-T: Of the people in the room, how many have you already fucked?
-T: Would you accept payment to be a sexual partner for someone?
-T: When was the last time you were blue-balled and how did it go?
-T: Would you become a pornstar?
-T: Would you do something irreversible for the sake of sexual pleasure?
-T: What is the fastest someone has made you cum?
-T: Would you be a hentai voice actor?
-T: Have you ever been asked to join a threesome out of the blue?
-T: What if your favorite part of your body?
-T: Would you rather beg~ or listen to someone begging to do something sexual?
-T: Would you fuck a creator to get a world/avi made
-T: What's the largest amount of sexual acts you've done in a single day?
-T: Have you faked an orgasm during ERP? If so, why?
-T: Tell everyone your favorite way to be teased~
-T: What's the longest time you've masturbated for?
-T: One kink you would like to try, but haven't?
-T: What's your weirdest kink/turn-on?
-T: Would you fuck an officer to get out of a ticket?
-T: What is the most down bad thing you've done because you were horny?
-T: Would you fuck your boss for a raise?
-T: What is something lewd you want to do in public?
-T: Who in the whole group, have you fantasized of the most?
-T: What is the worst kink you can think of?
-T: What is the lewdest thing you've done in public?
 T: What's your favorite porn category?
-T: How did you find out about your first kink?
-T: Who is your favorite NSFW artist?
-T: Why do you think your favorite kink is your favorite? (other then the fact it's pleasurable)
-T: What is your ERP body count?
-T: Have you ever eaten some out out? Has anyone eaten you out?
-T: Would you rather be able to change your genitalia on command, or change anyone else's on command?
-T: Describe the worst ERP experience you've had
-T: Have you ever been caught ERPing by people in VR/IRL?
-T: How did you develop Phantom sense? If you don't have it, where do you want it the most?
-T: Has anyone made you swap from Dom to Sub or vice verse during ERP/sex?
-T: Describe a time you went overboard during ERP
-T: Favourite bit of aftercare you've ever got/given?
-T: What is a kink you love to talk to people about?
-T: What's a kink you never get to indulge in?
-T: Is there a kink you don't want to try again?
-T: Tell us the last porno/hentai you read
-T: When did you last Masturbate? What was it to?
-T: Do you consider yourself a Sadist? What's your opinion on it?
-T: What was your last wet dream about?
-T: What kind of characters do you identify with in porn?
-T: What does sex mean to you?
-T: What do you look for in porn?
-T: Describe your ideal sex partner
-T: Have you has sex in a public place? Would you?
-T: What fetish would you most like to indulge in with the players next to you?
-T: How did you start ERPing?
-T: Do you consider yourself a masochist? What's your opinion about it?
-T: Would you like being at the mercy of other players here? Why or why not?
-T: If you could have just one sex toy, what would it be?
-T: Who do you think is the most dominant player in the room? What would you like to do with them?
-T: Do you think [PLAYER] is a virgin, and if so why?
-T: How often do you think [PLAYER] ERP's?
-T: Name one thing you would want to do with [PLAYER]
-T: Would you ERP with [PLAYER]? Did you already?
-T: What is a kink you and [PLAYER] share?
-T: What seems fun to do with [PLAYER]?
-T: What is sexy about [PLAYER]'s avatar?
-T: [PLAYER], first fantasy about them that comes to mind?
-T: Which form of bondage excites you the most?
-T: If you could give one piece of advice based on your lewd experience, what would it be?
-T: How often would you like to have sex in a relationship?
-T: Name three kinks you are ashamed of having (or feel like you should be~)
-T: How many times per week do you erp?
-T: Who is the most submissive player in the room? What would you like to do with them?
-T: What was your most awkward sexual experience?
-T: Who has the sexiest voice in the room?
-T: Describe to the stubbiest person how you would take them
-T: Which other players would you like to ERP with ~right now~?
-T: Describe your most erotic encounter to the group
-T: What character would you smash, that you would have to describe the appeal to people
-T: Smash or Pass on [PLAYER]
-T: If someone had total control over your orgasms for a week, what rules would they follow?
-T: What's your favorite punishment to give or receive?
-T: What's something you've never said during sex that you secretly wish someone would make you say?
-T: Do you prefer tongue or fingers?
-T: What's your favorite sex toy?
-T: What's a sex toy you would like to own?
-T: What's your favorite way to make someone beg for your attention or touch?
-T: What's a hard limit you've thought about pushing?
-T: When you give someone an order, how much do you enjoy their hesitation before they obey?
-T: Have you ever masturbated thinking about a group sex scene? Describe it
-T: What's the most difficult part about maintaining dominance when the sub challenges you 
-T: Do you enjoy being a brat/being with a brat?
-T: What's the one compliment during sex that made your brain melt?
-T: What's one thing that's been said to you during sex that made you outrageously horny?
-T: Have you ever been to a sex club?
-T: Have you met someone sexy, but changed your mind quickly?
-T: Have you ever gotten paid to strip?
-T: What is sexy about [PLAYER]
-T: Would you let someone edge you in front of others? For how long?
-T: Have you ever had a safe word and not used it when you should have?
-T: Whisper the nastiest, most taboo fantasy you've acted out
-T: Tell the group the last time you came and exactly how you did it
-T: What’s your wildest sexual fantasy?
-T: What’s your favorite position?
-T: Do you enjoy dirty talk?
-T: What’s your favorite type of porn?
-T: What is your opinion on role-playing?
-T: What’s your opinion on open relationships?
-T: Have you ever used food during foreplay?
-T: Have you ever had phone sex?
-T: Have you ever been to a sex-shop? If so, what did you buy/want to buy there?
-T: How many sex toys do you own?
-T: What's your biggest roleplay fantasy?
-T: What’s your favorite kind of dirty talk?
-T: Rate these kinks in order of best to worst. Vore, Inflation, Transformation, Size Difference, BDSM.
-T: What is the hottest avatar base?
-T: What’s the kinkiest thing someone would find in your web search history?
-T: What is your favorite type of sex toy?
-T: Do you prefer to be Dominant or Submissive?
-T: How often do you Orgasm?
-T: Would you rather be handcuffed or tied to the bed?
-T: Would you ever participate in an Orgy?
-T: Have you ever masturbated in public?
-T: Have you ever subscribed to a NSFW account? (Patreon, Onlyfans, Fansly, etc)
-T: What’s the most depraved kink you have?
-T: Who is your favorite NSFW artist?
-T: Have you ever fantasized about anyone here? Reveal or Drink
-T: What's the average amount of time it takes you to orgasm?
-T: Have you ever had a wet dream? If so describe it.
-T: Have you ever written Erotic fan fiction?
-T: Rate these kinks in order of best to worst. Ropes, Smothering, Latex, Beans, Pain Play.
-T: How much money do you think you've spent on toys? 
-T: What's something sexual you want to try but haven't tried yet?
-T: What would you do if you were the opposite gender for a week? 
-T: Do you like giving or receiving hickeys?
-T: Have you or would you shower with a partner?
+T: What's your favorite porn tag to search for?
+T: Who here would you make a sex tape with?
+T: Have you ever tried anal?
+T: Have you ever tried oral?
+T: Would you ever have sex in the shower?
+T: What's number one on your sexual bucket list?
+T: Have you ever masturbated at work? Did you cum?
+T: Given the option, dick or pussy to play with?
+T: How many of the people in this room would you fuck?
+T: Would you rather beg~ or listen to someone begging to do something sexual?
+T: Femboys or Dommy Mommys?
 T: Paws or Maws?
-T: Tell the story of the horniest you’ve ever been.
-T: Have you ever been caught watching porn?
-T: Do you like to receive sexual compliments?
-T: Do you like being whispered to during sex?
-T: Have you ever masturbated at work?
-T: Have you ever had a friend with benefits?
-T: Have you ever worn a toy in public?
-T: What's the longest Sex/ERP session you've ever had?
-T: Would you rather your partner undress you or undress your partner?
-T: Do you enjoy spontaneous sex?
-T: Have you ever initiated a spontaneous kiss?
-T: Do you enjoy setting the mood with music or candles?
-T: If you starred in a porno, what would it be about?
-T: What’s the most provocative piece of clothing you own?
-T: What is/would be your safe word?
-T: Rate these kinks in order of best to worst. Spanking, Choking, Praise, Degradation, Pet Play.
-T: Have you ever ERP'd?
-T: Do you enjoy quickies or extended sexual sessions?
-T: Have you ever ignored a call to continue something sexual?
-T: Do you enjoy slow, passionate sex or fast-paced, rough sex?
-T: Do you enjoy being watched or watching others?
-T: Do you enjoy being teased or teasing your partner?
-T: Do you prefer blindfolds or a hood during sex?
 T: Do you enjoy biting or being bitten?
-T: What smell turns you on the most?
-T: Do you enjoy trying new ways to pleasure yourself?
-T: Do you enjoy exploring your partner’s fantasies during sex?
-T: Phone sex or Sexting?
+T: Do you enjoy spontaneous sex?
+T: Would you rather your partner undress you or you undress your partner?
+T: Have you ever worn a toy in public?
+T: If you starred in a porno, what would be a scene in it?
+T: What is/ would be your safe word?
+T: Rate these kinks in order of best to worst. Spanking, Choking, Praise, Degradation, Pet Play.
+T: Do you enjoy quickies?
+T: Do you enjoy long ERP sessions?
+T: Do you enjoy watching/being watch by others?
 T: Do you use toys in bed?
-T: What's your worst sex/ERP story?
-T: What's your favorite kink?
-T: When's the last time you ERPed?
-T: Who is the most horny here?
-T: Who is someone in this room you would ERP with?
-T: What's a kink you enjoy in VR that you don't IRL?
-T: What's a kink you wish was more popular?
-T: In your opinion who here is the kinkiest?
-T: Would you try out a kink you've never heard of?
-T: Would you let someone here collar you?
-T: Have you ever tasted your own cum?
-T: Would you ever wear a collar/leash in public?
-T: Have you ever been in bondage?
-T: Have you ever been caught in the act?
-T: Would you rather be a Rope Bunny or Rigger
-T: Would you rather be smothered or do the smothering?
-T: Have you ever taken nudes of yourself?
-T: What's your opinion on breath play?
-T: Do you have a NSFW avatar? Change into it
-T: What's your opinion on weapons during sex?
-T: When did you lose your virginity?
-T: Who here would you like to have whispering in your ear?
-T: What's a line you won't cross during sex?
-T: What's your thoughts on pegging or being pegged?
-T: What's the dirtiest DM you've sent someone?
-T: What's your favorite part of your body?
-T: What's the weirdest place you have had sex?
-T: What gross smell do you actually enjoy?
-T: Who would you choose for a threesome in this room? 
-T: Who has the hottest voice here?
-T: Does size really matter?
+T: Who here was your most recent sexual fantasy?
+T: Do you enjoy exploring your partner’s fantasies during sex?
 T: What's your biggest turn on?
 T: What's your biggest turn off?
+T: What's a smell you enjoy that others might not like?
+T: Have you ever been in bondage?
+T: Would you rather be a Rope Bunny or a Rigger?
+T: Would you ever wear a collar/leash in public?
+T: What's a kink you enjoy in VR but not so much IRL?
+T: Whos the horniest person here in your opinion? They get 2 drinks
+T: Do you know what you taste like?
+T: What smell turns you on the most?
+T: What's your favorite part of your body?
+T: What's a kink you wish was more popular?
+T: Would you wear langerie?
+T: Have you ever been caught watching porn?
+T: Rate these kinks in order of best to worst. Vore, Inflation, Transformation, Size Difference, BDSM.
+T: What is the hottest avatar base in your opinion?
+T: What's your ERP record for 1 day?
+T: Describe the lewdest event you've attened in VRC
+D: Recreate your most recent favorite "Solo" pic from E621/FA/etc and take a photo of the result
 D: Do a Pole Dance for the room
 D: Pick someone to praise for a round.
 D: Take of an IRL clothing toggle
@@ -443,7 +191,6 @@ D: Have the group decide on a dare for you to complete.
 D: Give a personalised insult to everyone in the room.
 D: For the next 10 minutes, every time someone asks you something, respond with a bark.
 D: Update your VRC Status to "I'm just here to ERP!".
-D: Show the group your best dance moves.
 D: Choose a drinking buddy. Everytime either of you has to drink, both of you drink.
 D: Only whisper when you talk until your next turn.
 D: Call someone daddy/mommy when you talk to them for 5 rounds
@@ -479,14 +226,11 @@ D: Kiss a person. Long and gentle.
 D: Lick across a players face. Group Decides.
 D: Roast someone in this room.
 D: Sniff someone in this room and say "mmm yes mommy/daddy"
-D: In the next 10 minutes, find a way to scare another player and make it a surprise.
-D: Do karaoke to a song of the group’s choosing.
 D: Describe the most attractive quality of every person in the room.
 D: Find a willing player to spend a few minutes alone with.
 D: Serenade the person left of you.
 D: Read aloud the most personal text you've sent in recent days. (No names!)
 D: Eat a spoonful of hot sauce.
-D: Put an ice cube down your shirt and keep it there for 1 minute.
 D: Do an impression of someone in the room.
 D: Pick 2 people to become Dare buddies with each other.
 D: Pick 2 people to become Drinking Buddies.
@@ -498,33 +242,23 @@ D: Get slapped by the person of your choosing.
 D: Switch avatars with someone in this room.
 D: Whisper a secret to a person of your choice.
 D: Say one thing you like about each player this room.
-D: Take a shot without using your hands.
 D: Kiss someone in the group.
 D: Imitate how you sound when you cum
 D: Do a pole dance
 D: No clothes for one round
-D: Streak around the VIP area
-D: Share something in the actually horny channel in Discord
+D: Share something in #NSFW-Art
 D: Kiss someone in the room
-D: Do your best impression of a porno that involves a pizza delivery guy
-D: Do a dramatic reading of the most recent sext you sent
-D: Pull up the most recent email you sent, and read it as though it were the sexist sext of all time
 D: Demonstrate your hand job technique on a willing participant
 D: Close your eyes and spin around the center of the room while pointing. Kiss the person you're pointing at when you stop
 D: No shirt for the rest of the night
 D: No pants for the rest of the night
-D: Try to turn someone on with just your voice
 D: Do a strip tease for the group
-D: Put an ice cube in your pants. Keep it there til your next turn
-D: Put an ice cube in your pants. Keep it there til it melts
-D: Send one of your nudes to a consenting member of BMare
+D: Send one of your nudes to a consenting member of TheSaladBar
 D: Choose a consenting partner and try to get into your favorite sex position (clothes on)
 D: Try to use your best pick up lines on someone in this room
 D: Pick a consenting partner. Roleplay that you are a professor and partner is your student
 D: Show your avatar that has the biggest dick
 D: Put your phone in your pants on vibrate and have someone call you
-D: Put on a lovense toy and share your username 
-D: Share your lovense username
 D: Put on a Pi-Shock, give someone here a link
 D: Message your last ERP hookup, tell them 'When is round two, I'm ready~'
 D: Suck on a toy, or gag yourself for a round
@@ -543,57 +277,42 @@ D: Lewd a deskie
 D: Flirt with the first person to raise their hand
 D: If you have something that vibrates, let the group decide which hole it goes in for the next 3 rounds
 D: Speak in your best subductive voice for a round
-D: If you have a Lovense/PiShock in/on, choose someone to control it for a round
 D: PiShock on, give a link to someone here for the night
-D: Lovense in, give someone a link for the night
 D: Sit on someone's lap, dick in you, till one of you has to move
 D: Call everyone Master/Mistress for one round. Forget? They get to give a punishment~
 D: Hit on someone with your best perverted pickup line
-D: Add "Needy pet" to the start of your BMare discord username   
+D: Add "Needy pet" to the start of your Salad Bar discord username   
 D: Recreate an ERP encounter you've had with someone here
-D: Put an ice cube under your balls/pussy and sit until it melts
 D: Do your best vibrator impression
 D: Try to fluster someone, if you succeed, they must do a dare~
 D: Spank yourself loud enough for the mic to pick up
 D: Lick someone's nipples
 D: Ride a toy IRL for a round. If you can't, ride a volunteer~
 D: Bits out for the rest of the night~
-D: Offer yourself as a reviver of free-use headpats for a round
 D: Update your status to 'Laid at The Garden' for 3 rounds
 D: Show your favorite GoGo or FBT position
-D: Lose those socks and shoes
 D: Clothes off and take another dare~
 D: Grope a player for a round
-D: Change into your lewdest avi.
 D: Grind on a player for a round, moaning their name~
 D: Act as a players pet for a round
-D: Touch yourself everywhere that has phantom sense
 D: Spank yourself 3 times~ It must be loud enough to hear~
-D: Deepthroat something, others must be able to hear
 D: Give a player a lapdance
 D: Re-enact with a player the last porn you fapped to
 D: Describe to player how aroused you are
 D: One round, try and make a player horny
 D: For three rounds, if you are talking, you must be touching yourself
-D: Post a seductive selfie with a suggestive caption in #actually-horny
+D: Post a seductive selfie of your avatar with a suggestive caption in #NSFW-Art
 D: Whisper a naughty secret to a player
 D: Send a teasing DM to a player describing a wild fantasy
-D: Send your best hentai GIF in #actually-horny
-D: Mimic sending a sexy text message to a player aloud as if you were texting.
-D: Kiss a player seductively and whisper something naughty in their ear
-D: Tie yourself up
+D: Send your best hentai GIF in #NSFW-Art
 D: Bark like a needy puppy till your next turn
-D: Oopsie, we are a drinking group, waterfall with you as the leader
-D: Send a message in actually-horny expressing a naughty desire
+D: Send a message in #NSFW-General expressing a naughty desire
 D: Ask someone to spank you, thank them for each one
 D: Get on your knees in front of someone and ask them to 'use' you
-D: tell a player how they should pleasure you... verbally, physically or with toys
 D: Kiss everyone in the room
 D: Ask a dom in the room how to please them
 D: Whimper like a needy little pet for a round
-D: pick your favorite toy in the room. Tell them how you'll break them
 D: Beg a player to make you cum, convince them you deserve it
 D: Sit in the lap of your crush.
-D: Give a short ted talk on your favorite sex position
-D: Give a short ted talk on your favorite sex toy
 D: Change your status to "Lost my virginity"
+D: Take a pic with your self surrounded by every dick in the instance
