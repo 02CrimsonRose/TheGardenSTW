@@ -148,6 +148,11 @@ T: What is your prefered NSFW website?
 T: Who here would you like to flirt with the most?
 T: Whos the last person you sent a flirty DM to?
 T: Have you ever thought of {player} while masturbating?
+T: What part of {player}'s body would you want to worship
+T: What was your first ERP experience like?
+T: What is an avatar base you wanna fuck but haven't?
+T: Who's got the best personality here?
+T: Have you had sexual feelings about Jill (Furality)
 D: Recreate your most recent favorite "Solo" pic from E621/FA/etc and take a photo of the result
 D: Pick someone to praise for a round.
 D: Take of an IRL clothing toggle ;)
@@ -322,7 +327,7 @@ D: Everyone in the room smash or pass you
 D: Change your VRC/Discord Status to "2 Seater"
 D: Change your VRC Status to "I'm phantom pregnant"
 D: DM 3 people here a Lewd Compliment
-D: Pick someones face to sit on for a roun
+D: Pick someones face to sit on for a round
 D: Insult someone of your choosing, They take a drink
 D: Group Fuck, Marry, Kill you
 D: Take a drink for everyone here you find sexually attractive
@@ -349,3 +354,10 @@ D: Do whatever {player} tells you to for 1 round
 D: Give {player} a lap dance
 D: DM {player} a compliment
 D: Spend a round in the cage
+D: Post the last image or video you came to in #nsfw-art
+D: Speak in bottom for a round
+D: Mime out a kink you like. If someone can guess it, take a shot. If no one can guess it, give out three shots
+D: Ping Mint and tell him Good Night!
+D: Show off a lewd art piece of yourself! If you don't have one take a shot
+D: Praise (or Degrade if they prefer) {player}
+D: Secretly start flirting with someone of your choosing, (DMs or infront of everyone, your choice)
