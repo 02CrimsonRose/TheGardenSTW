@@ -383,7 +383,7 @@ If given the opportunity, who here would be the first person you want to meet IR
 Knots, Horse, or humanoid cocks?
 If you were going to get a piercing where would you get it?
 If you had to tattoo someones name here on your body, whos name and where would it be?
-Is there anyone here you would consider a Friend with Benifits?
+Is there anyone here you would consider a Friend with Benefits?
 Name a NSFW artist, anyone who recognizes the name drinks
 If you were on a NSFW website right now, what tag would you search for?
 How do you feel about vore?
@@ -398,6 +398,18 @@ Who here do you think would be the best to try BDSM with?
 Are you into spanking? If so who would you wanna be spanked by?
 How many days a week do you masturbate?
 Which to people would you send to a private room together and why?
+What was your first impression of {player}
+What do you think the most attractive thing about {player} is?
+If you had to go on a date with {player} where would you go?
+Ask {player} a question, they have to answer or finish their drink
+Name 3 things you like about {player}
+DM someone from the "OwO me" list a nsfw photo.
+Who here do you like to talk to the most?
+Hold hands with someone here
+Everyone who wants to, gets to kiss you (either one by one or all at once ;3)
+Anonymously name something you find attractive about someone here. If anyone guesses who you drink.
+Would you enjoy being hit on by someone here? Name them or drink!
+DM someone here about a nsfw thought you've had about someone else here
 Catch up - most recent person to join takes a shot
 Demonstrate your corniest pickup line
 Take a shot for every person in this instance you've ERP'd with
@@ -783,7 +795,7 @@ If given the opportunity, who here would be the first person you want to meet IR
 Knots, Horse, or humanoid cocks?
 If you were going to get a piercing where would you get it?
 If you had to tattoo someones name here on your body, whos name and where would it be?
-Is there anyone here you would consider a Friend with Benifits?
+Is there anyone here you would consider a Friend with Benefits?
 Name a NSFW artist, anyone who recognizes the name drinks
 If you were on a NSFW website right now, what tag would you search for?
 How do you feel about vore?
@@ -798,3 +810,15 @@ Who here do you think would be the best to try BDSM with?
 Are you into spanking? If so who would you wanna be spanked by?
 How many days a week do you masturbate?
 Which to people would you send to a private room together and why?
+What was your first impression of {player}
+What do you think the most attractive thing about {player} is?
+If you had to go on a date with {player} where would you go?
+Ask {player} a question, they have to answer or finish their drink
+Name 3 things you like about {player}
+DM someone from the "OwO me" list a nsfw photo.
+Who here do you like to talk to the most?
+Hold hands with someone here
+Everyone who wants to, gets to kiss you (either one by one or all at once ;3)
+Anonymously name something you find attractive about someone here. If anyone guesses who you drink.
+Would you enjoy being hit on by someone here? Name them or drink!
+DM someone here about a nsfw thought you've had about someone else here
