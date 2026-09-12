@@ -364,3 +364,4 @@ D: Ping Mint and tell him Good Night!
 D: Show off a lewd art piece of yourself! If you don't have one take a shot
 D: Praise (or Degrade if they prefer) {player}
 D: Secretly start flirting with someone of your choosing, (DMs or infront of everyone, your choice)
+D: Write a reply to the last DM you received in #general-chat, do not provide context as to what you're replying to
